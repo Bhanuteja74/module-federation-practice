@@ -7,13 +7,13 @@ I will update it as I progress.
 
 ## 1. Setup
 - [x] Create root repo `module-federation-practice`
-- [ ] Add `.gitignore` (ignore `node_modules`, `dist`, etc.)
+- [x] Add `.gitignore` (ignore `node_modules`, `dist`, etc.)
 - [ ] Create `vite-remote/`, `vite-host/`, `webpack-host/` folders
 
 ---
 
 ## 2. Vite Remote (Expose Components)
-- [ ] Initialize Vite project (`vite-remote`)
+- [x] Initialize Vite project (`vite-remote`)
 - [ ] Install dependencies for Module Federation
 - [ ] Configure remote to expose a simple component (e.g., `Button`)
 - [ ] Run and verify remote builds and exposes component
