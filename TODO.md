@@ -14,16 +14,16 @@ I will update it as I progress.
 
 ## 2. Vite Remote (Expose Components)
 - [x] Initialize Vite project (`vite-remote`)
-- [ ] Install dependencies for Module Federation
-- [ ] Configure remote to expose a simple component (e.g., `Button`)
+- [x] Install dependencies for Module Federation
+- [x] Configure remote to expose a simple component (e.g., `Button`)
 - [ ] Run and verify remote builds and exposes component
 
 ---
 
 ## 3. Vite Host (Consume Remote)
-- [ ] Initialize Vite project (`vite-host`)
-- [ ] Install dependencies for Module Federation
-- [ ] Configure host to consume `vite-remote` component
+- [x] Initialize Vite project (`vite-host`)
+- [x] Install dependencies for Module Federation
+- [x] Configure host to consume `vite-remote` component
 - [ ] Use exposed component inside host app
 - [ ] Verify everything works locally
 
